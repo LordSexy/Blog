@@ -12,4 +12,4 @@ Wie schon mehrfach angedeutet bauen wir gerade eine neue Firmware. Für alle Leu
 Bitte beachtet, dass es sich hierbei um unseren Nightly-Branch handelt. 
 Wir sind ganz guter Dinge, aber es können doch immer noch Bugs auftreten. Für Hinweise sind wir natürlich sehr dankbar. 
 
-Happy Firmware-flashing!
+Happy Firmware-Flashing!
